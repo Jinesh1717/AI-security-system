@@ -36,10 +36,8 @@ Gemini API is used to:
 ---
 
 ## 📸 Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
-- API key setup
-- Gemini responses
-- App using AI features
+
+![AI Proof](proof/gemini1.png)
 
 ---
 
