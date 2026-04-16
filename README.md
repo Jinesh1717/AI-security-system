@@ -42,7 +42,7 @@ Gemini API is used to:
 ---
 ## 📸ScreenShots
 
-![AI Proof](screenshots/Screenshot 2026-04-17 045450.png)
+![AI Proof](ss1.png)
 
 ## 🌟 Key Features
 - Phishing & scam detection  
