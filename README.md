@@ -62,13 +62,12 @@ Gemini API is used to:
 
 ---
 
-## 🚀 How to Run
+## ⚙️ Installation Steps
+
+### 1. Clone the repository
 ```bash
-# install dependencies
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+cd YOUR-REPO
 npm install
-
-# run frontend
 npm run dev
-
-# run backend
 uvicorn main:app --reload
