@@ -53,6 +53,9 @@ Gemini API is used to:
 - AI-powered security copilot  
 
 ---
+## 🎬 Demo Video
+
+[Watch Demo](https://drive.google.com/drive/folders/1BLero2H3V1gQ9RTIqTvH0wDq3nNc2vkD)
 
 ## 🧠 Tech Stack
 - Frontend: React + Tailwind  
