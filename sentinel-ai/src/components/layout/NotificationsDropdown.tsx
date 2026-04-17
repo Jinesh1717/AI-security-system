@@ -1,6 +1,6 @@
 "use client";
 import { motion, AnimatePresence } from "framer-motion";
-import { ShieldAlert, AlertTriangle, Info, CheckCircle2 } from "lucide-react";
+import { ShieldAlert, AlertTriangle, Info, CheckCircle2, Bell } from "lucide-react";
 import { useEffect, useRef } from "react";
 
 interface NotificationsDropdownProps {
